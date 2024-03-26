@@ -1,0 +1,9 @@
+cd Downloads/
+
+wget https://update.code.visualstudio.com/latest/linux-deb-x64/stable
+
+
+sudo dpkg -i stable
+
+
+

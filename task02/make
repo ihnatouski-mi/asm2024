@@ -1,0 +1,5 @@
+if ./nasm $1
+then
+	./ld $1
+fi
+

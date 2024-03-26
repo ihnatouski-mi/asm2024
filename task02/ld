@@ -1,0 +1,2 @@
+ld -m elf_i386 $1.o ../lib/PrintNum.o -o $1
+

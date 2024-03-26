@@ -1,0 +1,2 @@
+nasm -O0 -gstabs -F dwarf -f elf32 PrintNum.s -l PrintNum.l -o PrintNum.o
+

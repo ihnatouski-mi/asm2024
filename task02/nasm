@@ -1,0 +1,2 @@
+nasm -O0 -gstabs -F dwarf -f elf32 $1.s -l $1.l -o $1.o
+
